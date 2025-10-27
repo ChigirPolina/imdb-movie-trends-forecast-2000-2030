@@ -25,6 +25,6 @@ The data was taken from the **IMDb official dataset**, freely available for non-
 - Genre-based **forecasting model (2026–2030)**
   
 ## 💡 Key Insights
-- Movie production peaked around the mid-2010s.  
+- Movie releases peaked in the first quarter of 2019 and again in the first quarter of 2021, showing clear seasonal production trends.  
 - Genres such as **Action** and **Adventure** show consistent growth.  
 - Forecast suggests a rise in **digital-friendly and hybrid genres**.  
