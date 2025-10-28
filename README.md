@@ -22,9 +22,13 @@ The data was taken from the **IMDb official dataset**, freely available for non-
 ## 📈 Dashboard Highlights
 - Interactive visuals by **year, genre, region and rating**  
 - Trend analysis across multiple decades  
-- Genre-based **forecasting model (2026–2030)**
+- Genre-based **forecasting model (2025–2030)**
   
 ## 💡 Key Insights
 - Movie releases peaked in the first quarter of 2019 and again in the first quarter of 2021, showing clear seasonal production trends.  
--  
-- 
+- Strong growth in film production from 2000 to 2019, followed by a sharp decline in 2020–2021 due to COVID-19.
+- **Top Countries:** USA, UK, Germany, Japan, France — with the USA accounting for the majority of global output.
+- Drama remains the dominant genre, showing consistent popularity over two decades.
+
+
+![Dashboard Preview](dashboard.png)
