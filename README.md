@@ -4,7 +4,7 @@ Interactive Power BI dashboard exploring movie production trends (2000–2024) u
 
 ## 📊 Project Overview
 This Power BI dashboard explores movie trends from **2000 to 2024**, using data sourced from the **IMDb open dataset**.  
-It visualizes key insights about genres, release patterns, ratings, and production dynamics — and includes a **2026–2030 forecast** for each movie genre.
+It visualizes key insights about genres, release patterns, ratings, and production dynamics — and includes a **2025–2030 forecast** for each movie genre.
 
 ## 🧠 Objectives
 - Analyze how movie production evolved across years and genres.  
