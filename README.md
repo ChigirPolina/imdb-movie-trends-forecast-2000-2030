@@ -30,5 +30,7 @@ The data was taken from the **IMDb official dataset**, freely available for non-
 - **Top Countries:** USA, UK, Germany, Japan, France — with the USA accounting for the majority of global output.
 - Drama remains the dominant genre, showing consistent popularity over two decades.
 
+Check out my dashboard here:
+[View Dashboard](https://drive.google.com/file/d/182aHn_pwb2lJwIB7UrZE_V0O50oVEdb1/view?usp=sharing)
 
 ![Dashboard Preview](dashboard.png)
